@@ -7,5 +7,5 @@ The types of toxicity are:
         •	obscene
         •	threat
         •	insult
-        •	identity_hate
+        •	identity_hate.
 The goal of this project is to create a model which predicts a probability of each type of toxicity for each comment. 
